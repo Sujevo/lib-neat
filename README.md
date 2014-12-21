@@ -8,7 +8,7 @@ Usage
 
 ### Adding as a submodule
 
-To add this library as a submodule, execute the following commands inside of your project. This will add this library as a submodule and checkout the current 4.0.x version into a folder called "bourbon."
+To add this library as a submodule, execute the following commands inside of your project. This will add this library as a submodule and checkout the current 1.7.x version into a folder called "neat."
 
 	git submodule add -b v1_7 https://github.com/Sujevo/lib-neat neat
 	git submodule update --remote
