@@ -19,7 +19,7 @@ You may replace `v1_7` with `v1_6` or `v1_5` if you would like to use an older N
 
 | Version | Branch | Release Date  |
 | ------- | ------ | ------------- |
-| 1.7.1   | v1_7   | January 2014  |
+| 1.7.2   | v1_7   | March 2015    |
 | 1.6.0   | v1_6   | March 2014    |
 | 1.5.1   | v1_5   | April 2014    |
 
